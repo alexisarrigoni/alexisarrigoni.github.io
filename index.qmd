@@ -19,7 +19,7 @@ about:
 
 ::: {#hero-heading}
 
-I am a researcher at University of Oslo. 
+I am a data analyst at ATB Financial.
 
 My work is about Electronic Health Records. My thesis is about ...
 
