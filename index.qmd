@@ -6,15 +6,15 @@ about:
   template: trestles
   image-shape: rectangle
   links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com
+    - icon: envelope
+      text: E-mail
+      href: mailto:alexis.yannick.arrigoni@gmail.com
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/alexis-arrigoni/
-    - icon: github
-      text: Github
-      href: https://github.com
+    - icon: computer
+      text: Tableau
+      href: https://public.tableau.com/app/profile/alexis.arrigoni/vizzes
 ---
 
 ::: {#hero-heading}
